@@ -60,3 +60,14 @@
 ## revert 테스트
 
 - revert 테스트 입니다.
+
+## revert 복습
+
+- revert로 쉽게 커밋을 되돌릴 수 있다.
+- revert로 되돌리면 이전 커밋이 남기 때문에 좋다.
+- SourceTree에서는 '커밋 선택 - 우클릭 - 커밋 되돌리기'
+
+## revert FAQ
+
+- Q) revert로 여러 커밋을 되돌리고 싶은 경우
+- A) 최신 부터 순서대로 revert를 반복 적용하면 된다.
